@@ -1,6 +1,6 @@
 # Bot Fiscalização
 
-Automação GUI em Python para processar notas fiscais, extrair DXF e listas técnicas e gerar relatórios Excel.
+Automação GUI em Python para processar notas (obras), extrair DXF e listas técnicas e gerar relatórios Excel.
 
 ## Resumo
 Este projeto fornece uma interface gráfica (Tkinter + ttkthemes) para inserir notas, controlar quantidade de postes, executar rotinas de extração (DXF / lista técnica) e gerar um relatório final em Excel.
